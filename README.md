@@ -28,3 +28,10 @@
 
 Vibe Coding 部署课程作业。
 通过 AI 辅助制作，由本人试玩验收，并完成 GitHub 上传及网页部署。
+
+## 在线体验
+
+[点击游玩果趣连连看](https://fruit-match-d8gy6yj4lc8957342-1501631220.tcloudbaseapp.com/index.html)
+
+本项目通过 CloudBase 静态网站托管部署。
+若出现测试域名访问提示，请点击“确定访问”。
